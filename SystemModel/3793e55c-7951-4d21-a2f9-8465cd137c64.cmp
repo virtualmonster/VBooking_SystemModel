@@ -1,0 +1,12 @@
+{
+  "id": "3793e55c-7951-4d21-a2f9-8465cd137c64",
+  "name": "checkin",
+  "type": "service",
+  "relationships": {
+    "depends-on": [
+      "f0e2c01a-dca9-4ef2-940a-d145916a6dbf",
+      "707e7ec2-7f34-407d-868d-ceda3c102a53"
+    ]
+  },
+  "parent": "2b4f78d5-ab34-4660-b87a-da5454df4ce5"
+}

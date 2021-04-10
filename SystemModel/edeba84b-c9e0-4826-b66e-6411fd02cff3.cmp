@@ -1,0 +1,13 @@
+{
+  "id": "edeba84b-c9e0-4826-b66e-6411fd02cff3",
+  "name": "vbooking-home",
+  "type": "service",
+  "relationships": {
+    "depends-on": [
+      "13c73d75-21bb-47fc-88c7-14281dfa1fea",
+      "4223e1d6-56d4-47c4-ad7c-33d5a97acb72",
+      "3cc7f6ff-f4a4-4b4a-8f2f-49542fac6397"
+    ]
+  },
+  "parent": "2b4f78d5-ab34-4660-b87a-da5454df4ce5"
+}

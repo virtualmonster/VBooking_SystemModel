@@ -1,0 +1,11 @@
+{
+  "id": "a5cc3b02-f19f-4c42-b208-7c619984e980",
+  "name": "reservations",
+  "type": "service",
+  "relationships": {
+    "depends-on": [
+      "707e7ec2-7f34-407d-868d-ceda3c102a53"
+    ]
+  },
+  "parent": "88efd2c3-c60c-4cba-aea5-a996770ab479"
+}

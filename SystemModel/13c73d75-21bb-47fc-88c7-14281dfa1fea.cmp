@@ -1,0 +1,10 @@
+{
+  "id": "13c73d75-21bb-47fc-88c7-14281dfa1fea",
+  "name": "Currency",
+  "type": "service",
+  "relationships": {
+    "depends-on": [
+      "32abbc3d-7f4e-4d86-a0a0-ce70e8fce5df"
+    ]
+  }
+}

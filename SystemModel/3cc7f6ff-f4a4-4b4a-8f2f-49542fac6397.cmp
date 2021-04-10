@@ -1,0 +1,11 @@
+{
+  "id": "3cc7f6ff-f4a4-4b4a-8f2f-49542fac6397",
+  "name": "payment",
+  "type": "service",
+  "relationships": {
+    "depends-on": [
+      "707e7ec2-7f34-407d-868d-ceda3c102a53"
+    ]
+  },
+  "parent": "88efd2c3-c60c-4cba-aea5-a996770ab479"
+}

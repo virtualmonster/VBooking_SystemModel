@@ -1,0 +1,12 @@
+{
+  "id": "4223e1d6-56d4-47c4-ad7c-33d5a97acb72",
+  "name": "booking",
+  "type": "service",
+  "relationships": {
+    "depends-on": [
+      "707e7ec2-7f34-407d-868d-ceda3c102a53",
+      "ec90290b-cd46-4a73-8951-c0700b0f3e9f"
+    ]
+  },
+  "parent": "88efd2c3-c60c-4cba-aea5-a996770ab479"
+}

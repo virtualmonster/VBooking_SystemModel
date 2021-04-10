@@ -1,0 +1,12 @@
+{
+  "id": "220cbc6d-0230-4920-a49a-ecf99c1c5446",
+  "name": "hotels",
+  "type": "service",
+  "relationships": {
+    "depends-on": [
+      "39583325-e89e-4daa-a6bc-2f69a87a571f",
+      "05750b76-3c98-4a26-b1aa-0f93679ab036"
+    ]
+  },
+  "parent": "2b4f78d5-ab34-4660-b87a-da5454df4ce5"
+}

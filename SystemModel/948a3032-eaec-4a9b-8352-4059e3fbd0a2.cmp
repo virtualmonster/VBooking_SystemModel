@@ -1,0 +1,10 @@
+{
+  "id": "948a3032-eaec-4a9b-8352-4059e3fbd0a2",
+  "name": "Admin Pages",
+  "type": "ui",
+  "relationships": {
+    "depends-on": [
+      "8f3d2306-f042-48f7-bf48-331d2d9838cc"
+    ]
+  }
+}

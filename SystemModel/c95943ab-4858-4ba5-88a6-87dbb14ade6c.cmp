@@ -1,0 +1,10 @@
+{
+  "id": "c95943ab-4858-4ba5-88a6-87dbb14ade6c",
+  "name": "Main Site",
+  "type": "ui",
+  "relationships": {
+    "depends-on": [
+      "edeba84b-c9e0-4826-b66e-6411fd02cff3"
+    ]
+  }
+}

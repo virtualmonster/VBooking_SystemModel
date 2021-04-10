@@ -1,0 +1,10 @@
+{
+  "id": "124dcbba-29e7-4662-aa73-1cd72fbc5623",
+  "name": "reviews-v2",
+  "type": "service",
+  "relationships": {
+    "depends-on": [
+      "42bf40d8-02c0-492f-95b7-d4eb37b47b85"
+    ]
+  }
+}

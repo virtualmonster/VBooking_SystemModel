@@ -1,0 +1,13 @@
+{
+  "id": "a98115a0-3a4b-4f8a-b7a4-b46b1196f050",
+  "name": "Product Page",
+  "type": "ui",
+  "relationships": {
+    "depends-on": [
+      "84882f69-7aee-4a18-909f-81e8e826af47",
+      "124dcbba-29e7-4662-aa73-1cd72fbc5623",
+      "bb7625e4-5075-4c35-8ad9-b523ba2e5b12",
+      "8adb9232-ae31-42eb-a791-cafc699c3cd5"
+    ]
+  }
+}
